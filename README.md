@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GLLister (Gary Lister)
 - 👀 I’m interested in software documentation and technical writing.
 - 🌱 I’m currently learning about IT; I'm a student at MGSU, enrolled in the MSIT program.
-- 💞️ I’m looking to collaborate on technical writing.
+- 💞️ I’m looking to collaborate on corporate and technical writing.
 - 📫 How to reach me: gary.lister@outlook.com 
 
 <!---
